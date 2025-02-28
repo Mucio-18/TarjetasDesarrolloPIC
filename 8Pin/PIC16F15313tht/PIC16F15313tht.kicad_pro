@@ -485,7 +485,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "GerbersPmiu/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
